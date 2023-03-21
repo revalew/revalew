@@ -19,10 +19,20 @@
 <img src="./fingerCount.gif" width="375" height="260" />
 </p>
 
-## Programming & Robotics
+## Technologies and skills:
 
-#### Technologies and skills:
+<table align="center">
+<thead><th>
 
+#### Programming & Robotics
+
+</th><th>&emsp;&emsp;&emsp;&emsp;</th><th>
+
+#### WebDev
+
+</th></thead>
+<tbody>
+<tr><td>
 <div align="center">
 
 | **What I know** | **What's next** |
@@ -30,18 +40,38 @@
 | C |LaTeX|
 | C++ |Machine Learning|
 | Python |Computer Vision|
+|NumPy|Even more C / C++|
 |MATLAB|Inverse kinematics|
 |Simulink|ROS|
+|Git|Linux|
 |SQL|C# / Java|
-|Git|Even more C / C++|
-|Raspbian|Linux|
+|Raspbian|OpenCL, Cuda|
+|LabVIEW||
+  
+<!-- | **What I know** |
+|:-:|
+| C |
+| C++ |
+| Python |
+|MATLAB|
+|Simulink|
+|SQL|
+|Git|
+|Raspbian|
+  
+| **What's next** |
+|:-:|
+|LaTeX|
+|Machine Learning|
+|Computer Vision|
+|Inverse kinematics|
+|ROS|
+|C# / Java|
+|Even more C / C++|
+|Linux| -->
 
 </div>
-
-## WebDev
-
-#### Technologies and skills:
-
+</td><td></td><td>
 <div align="center">
 
 | **What I know** | **What's next** |
@@ -54,8 +84,10 @@
 |SASS, BEM||
 |Bootstrap||
 |Basic Node.js||
-|Gulp||
-|npm||
+|Gulp, npm||
 |RWD, SEO||
 
 </div>
+</td></tr>
+</tbody>
+</table>
