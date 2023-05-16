@@ -12,10 +12,15 @@
 ### Hexapod & Computer Vision
 <p align='center'>
 <img src="./hexapod_1.png" width="375" height="260" />
+<span>&ensp;</span>
 <img src="./hexapod_pushups.gif" width="375" height="260" />
 </p>
+<!-- <p align='center'>
+<img src="./hexapod_first_standup.gif" width="375" height="260" />
+</p> -->
 <p align='center'>
 <img src="./tracking.gif" width="375" height="260" />
+<span>&ensp;</span>
 <img src="./fingerCount.gif" width="375" height="260" />
 </p>
 
