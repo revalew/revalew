@@ -7,7 +7,7 @@
 - 📚 I'm currently learning about:
   - Controlling custom robot with ROS2 and Python,
   - Computer Vision and Machine Learning with Python,
-  - Typesetting with $\LaTeX{}$.
+  - Typesetting with LaTeX.
 - 👨🏻‍💻🕺🏻 In the free time I like to learn new things, read a good book or go for a jog.
 
 ## Current projects
@@ -108,7 +108,7 @@
 |:-:|:-:|
 | Linux     | UI / UX |
 | Raspbian  | Graphics Design |
-| $\LaTeX{}$| Blender |
+| LaTeX     | Blender |
 | TIA Portal||
 | Inventor  ||
 | CAD       ||
