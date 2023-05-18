@@ -2,10 +2,13 @@
 
 ## General 
 
-- 👋🏻 Hello I am revalew, AKA Maks Kisiel
-- 👀 I’m interested in programming, robotics and ocasional web development (frontend, hardly in the back)
-- 📚 I'm currently learning about Computer Vision and Machine Learning with Python as well as LaTeX and JavaScript
-- 👨🏻‍💻🕺🏻 In the free time I like to learn new things, read a good book or go for a jog
+- 👋🏻 Hello I am revalew, AKA Maks Kisiel.
+- 👀 I’m interested in programming, robotics and ocasional web development (frontend, hardly in the back).
+- 📚 I'm currently learning about:
+  - Controlling custom robot with ROS2 and Python,
+  - Computer Vision and Machine Learning with Python,
+  - Typesetting with $\LaTeX{}$.
+- 👨🏻‍💻🕺🏻 In the free time I like to learn new things, read a good book or go for a jog.
 
 ## Current projects
 
