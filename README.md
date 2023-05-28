@@ -12,7 +12,7 @@
 
 ## Current projects
 
-### Hexapod & Computer Vision
+### Hexapod
 <p align='center'>
 <img src="./hexapod_1.png" width="375" height="260" />
 <!-- <span>&ensp;</span> -->
@@ -34,9 +34,8 @@
 <!--   ![ROS](https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) -->
 <!-- [HEXAPOD GitHub](https://github.com/revalew/HEXAPOD) -->
 </div>
-<!-- <p align='center'>
-<img src="./hexapod_first_standup.gif" width="375" height="260" />
-</p> -->
+
+### Computer Vision
 <p align='center'>
 <img src="./tracking.gif" width="375" height="260" />
 <span>&ensp;</span>
@@ -68,16 +67,16 @@
 
 | **What I know** | **What's next** |
 |:-:|:-:|
-| C         |ROS|
-| C++       |Inverse kinematics|
-| Python    |Computer Vision|
-| Docker    |Even more C / C++|
-| MATLAB    |Machine Learning|
-| Simulink  |Pandas|
-| Git       |C# / Java|
-| SQL       |OpenCL, Cuda|
-| NumPy     |Custom Drivers|
-| LabVIEW   ||
+| C           |ROS|
+| C++         |Inverse kinematics|
+| Python      |Computer Vision|
+| Docker      |Even more C / C++|
+| MATLAB      |Machine Learning|
+| Simulink    |Pandas|
+| Git         |C# / Java|
+| SQL         |OpenCL, Cuda|
+| NumPy       |Custom Drivers|
+| LabVIEW     ||
 
 </div>
 </td><td></td><td>
@@ -85,16 +84,16 @@
 
 | **What I know** | **What's next** |
 |:-:|:-:|
-| HTML      |Advanced Node.js|
-| CSS       ||
-| JavaScript||
-| PHP       ||
-| SQL       ||
-| SASS, BEM ||
-| Bootstrap ||
-| Node.js   ||
-| Gulp, npm ||
-| RWD, SEO  ||
+| HTML        |Advanced Node.js|
+| CSS         ||
+| JavaScript  ||
+| PHP         ||
+| SQL         ||
+| SASS, BEM   ||
+| Bootstrap   ||
+| Node.js     ||
+| Gulp, npm   ||
+| RWD, SEO    ||
 
 </div>
 </td></tr>
@@ -115,12 +114,12 @@
 
 | **What I know** | **What's next** |
 |:-:|:-:|
-| Linux     | UI / UX |
-| Raspbian  | Graphics Design |
-| LaTeX     | Blender |
-| TIA Portal||
-| Inventor  ||
-| CAD       ||
+| Linux       | UI / UX |
+| Raspbian    | Graphics Design |
+| LaTeX       | Blender |
+| TIA Portal  ||
+| Inventor    ||
+| CAD         ||
 <!-- ||| -->
 <!-- ||| -->
 <!-- ||| -->
