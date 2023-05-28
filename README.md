@@ -15,8 +15,14 @@
 ### Hexapod & Computer Vision
 <p align='center'>
 <img src="./hexapod_1.png" width="375" height="260" />
-<span>&ensp;</span>
+<!-- <span>&ensp;</span> -->
+<!-- <img src="./hexapod_pushups.gif" width="375" height="260" /> -->
+</p>
+<p align='center'>
 <img src="./hexapod_pushups.gif" width="375" height="260" />
+<span>&ensp;</span>
+<img src="./hexapod_tripod_gait.gif" width="375" height="260" />
+<!-- <img src="./hexapod_tripod_test.gif" width="375" height="260" /> -->
 </p>
 <div align="center">
 
