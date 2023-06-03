@@ -14,14 +14,13 @@
 
 ### Hexapod
 <p align='center'>
-<img src="./hexapod_1.png" width="375" height="260" />
+<img src="./img/hexapod_1.png" width="375" height="260" />
 <!-- <span>&ensp;</span> -->
-<!-- <img src="./hexapod_pushups.gif" width="375" height="260" /> -->
-</p>
-<p align='center'>
-<img src="./hexapod_pushups.gif" width="375" height="260" />
-<span>&ensp;</span>
-<img src="./hexapod_tripod_gait.gif" width="375" height="260" />
+<img src="./img/hexapod_teleop_body_IK.gif" width="375" height="260" />
+<br>
+<img src="./img/hexapod_pushups.gif" width="375" height="260" />
+<!-- <span>&ensp;</span> -->
+<img src="./img/hexapod_tripod_gait.gif" width="375" height="260" />
 <!-- <img src="./hexapod_tripod_test.gif" width="375" height="260" /> -->
 </p>
 <div align="center">
@@ -37,9 +36,9 @@
 
 ### Computer Vision
 <p align='center'>
-<img src="./tracking.gif" width="375" height="260" />
-<span>&ensp;</span>
-<img src="./fingerCount.gif" width="375" height="260" />
+<img src="./img/tracking.gif" width="375" height="260" />
+<!-- <span>&ensp;</span> -->
+<img src="./img/fingerCount.gif" width="375" height="260" />
 </p>
 <div align="center">
 
