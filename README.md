@@ -1,6 +1,6 @@
 <!-- # Hello there 👋🏻 -->
 <div>
-  <img src="./img/hello.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="./img/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 ## General 
@@ -24,8 +24,12 @@
 <img src="./img/hexapod_pushups.gif" width="375" height="260" loading="lazy"/>
 <!-- <span>&ensp;</span> -->
 <img src="./img/hexapod_tripod_gait.gif" width="375" height="260" loading="lazy"/>
-<!-- <img src="./hexapod_tripod_test.gif" width="375" height="260" /> -->
 </p>
+
+<!-- <div>
+  <img src="./img/svg/hexapod.svg">
+</div> -->
+
 <div align="center">
 
 | Project Name | Tools & Technologies | Repository |
