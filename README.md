@@ -13,52 +13,16 @@
 ## Current projects
 
 ### Hexapod
-
-<style>
-.blurred-img {
-  display: inline-block;
-  width: 375px;
-  height: 260px;
-  position: relative;
-  background-image: linear-gradient(white, gray, white, black);
-  background-repeat: no-repeat;
-  background-size: cover;
-  align: center;
-  z-index: -2;
-}
-.blurred-img-text {
-  position: absolute;
-  /* inset: 0;
-  top: 110px; */
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: -1;
-  overflow: hidden;
-}
-</style>
-
-<div align='center'>
-  <div class="blurred-img">
-    <span class="blurred-img-text">Loading...</span>
-    <img src="./img/hexapod_1.png" width="375" height="260" loading="lazy"/>
-  </div>
-  <div class="blurred-img">
-    <span class="blurred-img-text">Loading...</span>
-    <img src="./img/hexapod_teleop_body_IK.gif" width="375" height="260" loading="lazy"/>
-  </div>
-  <!-- <br> -->
-  <div class="blurred-img">
-    <span class="blurred-img-text">Loading...</span>
-    <img src="./img/hexapod_pushups.gif" width="375" height="260" loading="lazy"/>
-  </div>
-  <div class="blurred-img">
-    <span class="blurred-img-text">Loading...</span>
-    <img src="./img/hexapod_tripod_gait.gif" width="375" height="260" loading="lazy"/>
-  </div>
-  <!-- <span>&ensp;</span> -->
-</div>
-
+<p align='center'>
+<img src="./img/hexapod_1.png" width="375" height="260" loading="lazy"/>
+<!-- <span>&ensp;</span> -->
+<img src="./img/hexapod_teleop_body_IK.gif" width="375" height="260" loading="lazy"/>
+<br>
+<img src="./img/hexapod_pushups.gif" width="375" height="260" loading="lazy"/>
+<!-- <span>&ensp;</span> -->
+<img src="./img/hexapod_tripod_gait.gif" width="375" height="260" loading="lazy"/>
+<!-- <img src="./hexapod_tripod_test.gif" width="375" height="260" /> -->
+</p>
 <div align="center">
 
 | Project Name | Tools & Technologies | Repository |
@@ -71,18 +35,11 @@
 </div>
 
 ### Computer Vision
-<div align='center'>
-  <div class="blurred-img">
-    <span class="blurred-img-text">Loading...</span>
-    <img src="./img/tracking.gif" width="375" height="260" loading="lazy"/>
-  </div>
-  <div class="blurred-img">
-    <span class="blurred-img-text">Loading...</span>
-    <img src="./img/fingerCount.gif" width="375" height="260" loading="lazy"/>
-  </div>
-  <!-- <span>&ensp;</span> -->
-</div>
-
+<p align='center'>
+<img src="./img/tracking.gif" width="375" height="260" loading="lazy"/>
+<!-- <span>&ensp;</span> -->
+<img src="./img/fingerCount.gif" width="375" height="260" loading="lazy"/>
+</p>
 <div align="center">
 
 | Project Name | Tools & Technologies | Repository |
