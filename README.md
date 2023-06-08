@@ -1,4 +1,7 @@
-# Hello there 👋🏻
+<!-- # Hello there 👋🏻 -->
+<div>
+  <img src="./img/hello.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 ## General 
 
