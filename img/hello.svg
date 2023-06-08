@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 1200 100"  xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1200 300" width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -36,7 +36,7 @@
           animation: gradient 15s ease infinite;
 
           width: 100%;
-          <!-- height: 300px; -->
+          height: 300px;
 
           display: flex;
           justify-content: center;
@@ -70,10 +70,13 @@
             animation: none;
           }
         }
+        h1 {
+            font-size: 70px;
+        }
       </style>
 
       <div class="container">
-        <h1>Hello there<div class="hi">👋🏻</div></h1>
+        <h1>Hello there <span class="hi">👋🏻</span></h1>
       </div>
     </div>
   </foreignObject>
