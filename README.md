@@ -13,6 +13,7 @@
 ## Current projects
 
 ### Hexapod
+
 <style>
 .blurred-img {
   display: inline-block;
@@ -36,6 +37,7 @@
   overflow: hidden;
 }
 </style>
+
 <div align='center'>
   <div class="blurred-img">
     <span class="blurred-img-text">Loading...</span>
