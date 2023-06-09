@@ -19,11 +19,11 @@
 <p align='center'>
 <img src="./img/hexapod_1.png" width="375" height="260" loading="lazy"/>
 <!-- <span>&ensp;</span> -->
-<img src="./img/hexapod_teleop_body_IK.gif" width="375" height="260" loading="lazy"/>
+<img src="./img/hexapod_remote_rotate.gif" width="375" height="260" loading="lazy"/>
 <br>
 <img src="./img/hexapod_pushups.gif" width="375" height="260" loading="lazy"/>
 <!-- <span>&ensp;</span> -->
-<img src="./img/hexapod_tripod_gait.gif" width="375" height="260" loading="lazy"/>
+<img src="./img/hexapod_remote_body.gif" width="375" height="260" loading="lazy"/>
 </p>
 
 <!-- <div>
