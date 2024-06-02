@@ -6,16 +6,20 @@
 ## General 
 
 - 👋🏻 Hello I am revalew, AKA Maks Kisiel.
+- I am proud to have graduated from the Silesian University of Technology in February 2024 with a Bachelor of Science in Automatic Control and Robotics (in Polish: Inżynier Automatyki i Robotyki). 
 - 👀 I’m interested in programming, robotics and ocasional web development (frontend, hardly in the back).
 - 📚 I'm currently learning about:
-  - Controlling custom robot with ROS2 and Python,
+  - Game Development,
   - Computer Vision and Machine Learning with Python,
+  - Controlling custom robot with ROS2 and Python,
   - Typesetting with LaTeX.
 - 👨🏻‍💻🕺🏻 In the free time I like to learn new things, read a good book or go for a jog.
 
-## Current projects
+<!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revalew&show_icons=true&locale=en&layout=compact&theme=aura_dark"/> </p> -->
 
-### Hexapod
+## Interesting projects
+
+### Hexapod - Bachelor Project
 <p align='center'>
 <img src="./img/hexapod_1.png" width="375" height="260" loading="lazy"/>
 <!-- <span>&ensp;</span> -->
@@ -41,6 +45,16 @@
 <!-- [HEXAPOD GitHub](https://github.com/revalew/HEXAPOD) -->
 </div>
 
+### Simple Game Test - The Slider
+<div align="center">
+  
+| Project Name | Tools & Technologies | Repository |
+| :-: | :-: | :-: |
+| **The Slider** |![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)| [![The Slider GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revalew/TheSliderTest) |
+<!-- [CV & ML GitHub](https://github.com/revalew/OpenCV_DeepLearning) -->
+</div>
+
+
 ### Computer Vision
 <p align='center'>
 <img src="./img/tracking.gif" width="375" height="260" loading="lazy"/>
@@ -54,6 +68,16 @@
 | **Computer Vision & ML** |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)| [![CV & ML GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revalew/OpenCV_DeepLearning) |
 <!-- [CV & ML GitHub](https://github.com/revalew/OpenCV_DeepLearning) -->
 </div>
+
+<!--
+## My Degree
+<div align="center">
+  
+| Title PL | Title EN | Link to PDF |
+| :-: | :-: | :-: |
+|Sterowanie robotem mobilnym typu HEXAPOD | HEXAPOD mobile robot control | ![My Degree PDF](./src/Projekt_Inzynierski_Kisiel_Maksymilian.pdf) |
+</div>
+-->
 
 ## Technologies and skills:
 
