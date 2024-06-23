@@ -1,6 +1,6 @@
 <!-- # Hello there 👋🏻 -->
 <div>
-  <img src="./img/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="./src/img/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 ## General 
@@ -21,17 +21,17 @@
 
 ### Hexapod - Bachelor Project
 <p align='center'>
-<img src="./img/hexapod_1.png" width="375" height="260" loading="lazy"/>
+<img src="./src/img/hexapod_1.png" width="375" height="260" loading="lazy"/>
 <!-- <span>&ensp;</span> -->
-<img src="./img/hexapod_remote_rotate.gif" width="375" height="260" loading="lazy"/>
+<img src="./src/img/hexapod_remote_rotate.gif" width="375" height="260" loading="lazy"/>
 <br>
-<img src="./img/hexapod_pushups.gif" width="375" height="260" loading="lazy"/>
+<img src="./src/img/hexapod_pushups.gif" width="375" height="260" loading="lazy"/>
 <!-- <span>&ensp;</span> -->
-<img src="./img/hexapod_remote_body.gif" width="375" height="260" loading="lazy"/>
+<img src="./src/img/hexapod_remote_body.gif" width="375" height="260" loading="lazy"/>
 </p>
 
 <!-- <div>
-  <img src="./img/svg/hexapod.svg">
+  <img src="./src/img/svg/hexapod.svg">
 </div> -->
 
 <div align="center">
@@ -45,7 +45,20 @@
 <!-- [HEXAPOD GitHub](https://github.com/revalew/HEXAPOD) -->
 </div>
 
-### Simple Game Test - The Slider
+### [ZTGK Project](https://gry.it.p.lodz.pl/main/index.php/pl/) - Paper Blades
+
+
+<div align="center">
+
+[List of projects selected for the 16th ZTGK final](https://gry.it.p.lodz.pl/main/index.php/pl/101-lista-projektow-zakwalifikowanych-do-16-finalu-ztgk)
+  
+| Project Name | Tools & Technologies | Repository |
+| :-: | :-: | :-: |
+| **Paper Blades** |![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)| [![Paper Blades GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szejkerek/PaperBlades) |
+<!-- [CV & ML GitHub](https://github.com/revalew/OpenCV_DeepLearning) -->
+</div>
+
+### Simple Game Pages Test - The Slider
 <div align="center">
   
 | Project Name | Tools & Technologies | Repository |
@@ -57,9 +70,9 @@
 
 ### Computer Vision
 <p align='center'>
-<img src="./img/tracking.gif" width="375" height="260" loading="lazy"/>
+<img src="./src/img/tracking.gif" width="375" height="260" loading="lazy"/>
 <!-- <span>&ensp;</span> -->
-<img src="./img/fingerCount.gif" width="375" height="260" loading="lazy"/>
+<img src="./src/img/fingerCount.gif" width="375" height="260" loading="lazy"/>
 </p>
 <div align="center">
 
@@ -69,17 +82,17 @@
 <!-- [CV & ML GitHub](https://github.com/revalew/OpenCV_DeepLearning) -->
 </div>
 
-<!--
-## My Degree
+
+## My BSc Thesis (in Polish)
 <div align="center">
   
 | Title PL | Title EN | Link to PDF |
 | :-: | :-: | :-: |
 |Sterowanie robotem mobilnym typu HEXAPOD | HEXAPOD mobile robot control | ![My Degree PDF](./src/Projekt_Inzynierski_Kisiel_Maksymilian.pdf) |
 </div>
--->
 
-## Technologies and skills:
+
+<!-- ## Technologies and skills:
 
 <table align="center">
 <thead><th>
@@ -150,14 +163,11 @@
 | TIA Portal  ||
 | Inventor    ||
 | CAD         ||
-<!-- ||| -->
-<!-- ||| -->
-<!-- ||| -->
-<!-- ||| -->
-<!-- ||| -->
 
 </div>
 </td>
 </tbody>
 </table>
 </p>
+
+-->
