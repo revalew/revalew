@@ -51,6 +51,12 @@
 <div align="center">
 
 [List of projects selected for the 16th ZTGK final](https://gry.it.p.lodz.pl/main/index.php/pl/101-lista-projektow-zakwalifikowanych-do-16-finalu-ztgk)
+
+[Results of the 16th final of the ZTGK competition 💪🏻](https://gry.it.p.lodz.pl/main/index.php/pl/104-wyniki-16-finalu-konkursu-ztgk)
+
+|Team Name|Game Name|
+|:-:|:-:|
+|**Place Holders**|**Paper Blades**|
   
 | Project Name | Tools & Technologies | Repository |
 | :-: | :-: | :-: |
@@ -89,6 +95,14 @@
 | Title PL | Title EN | Link to PDF |
 | :-: | :-: | :-: |
 |Sterowanie robotem mobilnym typu HEXAPOD | HEXAPOD mobile robot control | ![My Degree PDF](./src/Projekt_Inzynierski_Kisiel_Maksymilian.pdf) |
+</div>
+
+## My Masters Project
+<div align="center">
+  
+| Title PL | Title EN | Tools & Technologies | Repository |
+| :-: | :-: | :-: | :-: |
+|Estymacja kroków z czujników ruchu | Step estimation from motion sensors | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|[![Master Thesis GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revalew/Master-Thesis)|
 </div>
 
 
