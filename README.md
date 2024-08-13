@@ -45,26 +45,35 @@
 <!-- [HEXAPOD GitHub](https://github.com/revalew/HEXAPOD) -->
 </div>
 
-### [ZTGK Project](https://gry.it.p.lodz.pl/main/index.php/pl/) - Paper Blades
+### Paper Blades by Place Holders ([ZTGK Project](https://gry.it.p.lodz.pl/main/index.php/pl/))
 
+> [!IMPORTANT]
+> ### **REPO GONE PRIVATE**
+> We are currently working on the project to release it as a full game
 
 <div align="center">
 
-[List of projects selected for the 16th ZTGK final](https://gry.it.p.lodz.pl/main/index.php/pl/101-lista-projektow-zakwalifikowanych-do-16-finalu-ztgk)
-
 [Results of the 16th final of the ZTGK competition 💪🏻](https://gry.it.p.lodz.pl/main/index.php/pl/104-wyniki-16-finalu-konkursu-ztgk)
 
+<!--
+[List of projects selected for the 16th ZTGK final](https://gry.it.p.lodz.pl/main/index.php/pl/101-lista-projektow-zakwalifikowanych-do-16-finalu-ztgk)
 |Team Name|Game Name|
 |:-:|:-:|
 |**Place Holders**|**Paper Blades**|
-  
-| Project Name | Tools & Technologies | Repository |
+-->
+
+| Project Name | Tools & Technologies | Contact Links |
 | :-: | :-: | :-: |
-| **Paper Blades** |![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)| [![Paper Blades GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szejkerek/PaperBlades) |
+| **Paper Blades** |![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)| [![Place Holders Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/place_holders) [![Paper Blades itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://place-holders.itch.io/paper-blades) [![Join Place Holders Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rKTFrrEa4d)|
+
+<!--
+[![Paper Blades GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szejkerek/PaperBlades) |
+-->
+
 <!-- [CV & ML GitHub](https://github.com/revalew/OpenCV_DeepLearning) -->
 </div>
 
-### Simple Game Pages Test - The Slider
+### Simple Game (GitHub Pages Test) - The Slider
 <div align="center">
   
 | Project Name | Tools & Technologies | Repository |
@@ -90,6 +99,12 @@
 
 
 ## My BSc Thesis (in Polish)
+
+> [!NOTE]
+> This thesis is written in Polish, but I might consider translating it into English if anyone wants to read it.
+> If that's the case, contact me and tell me why you want to read it. We'll work it out.
+
+
 <div align="center">
   
 | Title PL | Title EN | Link to PDF |
@@ -98,6 +113,14 @@
 </div>
 
 ## My Masters Project
+
+> [!IMPORTANT]
+> I am currently working on several projects, attending classes and working full time.
+> 
+> I will work on this project slowly, so please be patient.
+> 
+> As the Pico 2 W will be released later this year, I will also upgrade the 1st generation used in this project (when it becomes available at the end of 2024).
+
 <div align="center">
   
 | Title PL | Title EN | Tools & Technologies | Repository |
