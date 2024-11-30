@@ -3,23 +3,31 @@
   <img src="./src/img/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
+</br>
+</br>
+
 ## General 
 
-- 👋🏻 Hello I am revalew, AKA Maks Kisiel.
-- I am proud to have graduated from the Silesian University of Technology in February 2024 with a Bachelor of Science in Automatic Control and Robotics (in Polish: Inżynier Automatyki i Robotyki). 
-- 👀 I’m interested in programming, robotics and ocasional web development (frontend, hardly in the back).
+- 👋🏻 Hello I am revalew, AKA **Maks Kisiel**.
+- 👨🏻‍🔬 🥳 I am proud to have **graduated** from the **Silesian University of Technology** in February 2024 with a **Bachelor of Science in Automatic Control and Robotics** (in Polish: Inżynier Automatyki i Robotyki). 
+- 👀 I’m interested in programming, robotics and electronics.
 - 📚 I'm currently learning about:
   - Game Development,
   - Computer Vision and Machine Learning with Python,
-  - Controlling custom robot with ROS2 and Python,
+  <!-- - Controlling custom robot with ROS2 and Python, -->
   - Typesetting with LaTeX.
-- 👨🏻‍💻🕺🏻 In the free time I like to learn new things, read a good book or go for a jog.
+- 👨🏻‍💻 🕺🏻 In the free time I like to learn new things, read a good book, play fun games or go for a jog.
 
 <!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revalew&show_icons=true&locale=en&layout=compact&theme=aura_dark"/> </p> -->
+
+</br>
+</br>
 
 ## Interesting projects
 
 ### Hexapod - Bachelor Project
+
+</br>
 <p align='center'>
 <img src="./src/img/hexapod_1.png" width="375" height="260" loading="lazy"/>
 <!-- <span>&ensp;</span> -->
@@ -34,6 +42,7 @@
   <img src="./src/img/svg/hexapod.svg">
 </div> -->
 
+</br>
 <div align="center">
 
 | Project Name | Tools & Technologies | Repository |
@@ -45,6 +54,23 @@
 <!-- [HEXAPOD GitHub](https://github.com/revalew/HEXAPOD) -->
 </div>
 
+</br>
+</br>
+
+### Custom Python Package - Advanced Image, Video, and Motion Analysis Uni Course
+
+</br>
+
+<div align="center">
+  
+| Project Name | Tools & Technologies | Repository |
+| :-: | :-: | :-: |
+| **ZAOWR Python Package** | ![PyPi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | [![ZAOWR Python Package GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revalew/zaowr-py-package) |
+</div>
+
+</br>
+</br>
+
 ### Paper Blades by Place Holders ([ZTGK Project](https://gry.it.p.lodz.pl/main/index.php/pl/))
 
 > [!IMPORTANT]
@@ -53,8 +79,11 @@
 
 <div align="center">
 
+</br>
+
 [Results of the 16th final of the ZTGK competition 💪🏻](https://gry.it.p.lodz.pl/main/index.php/pl/104-wyniki-16-finalu-konkursu-ztgk)
 
+</br>
 <!--
 [List of projects selected for the 16th ZTGK final](https://gry.it.p.lodz.pl/main/index.php/pl/101-lista-projektow-zakwalifikowanych-do-16-finalu-ztgk)
 |Team Name|Game Name|
@@ -64,7 +93,7 @@
 
 | Project Name | Tools & Technologies | Contact Links |
 | :-: | :-: | :-: |
-| **Paper Blades** |![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)| [![Place Holders Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/place_holders) [![Paper Blades itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://place-holders.itch.io/paper-blades) [![Join Place Holders Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rKTFrrEa4d)|
+| **Paper Blades** |![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | [![Place Holders Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/place_holders) [![Paper Blades itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://place-holders.itch.io/paper-blades) [![Join Place Holders Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rKTFrrEa4d)|
 
 <!--
 [![Paper Blades GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szejkerek/PaperBlades) |
@@ -73,22 +102,19 @@
 <!-- [CV & ML GitHub](https://github.com/revalew/OpenCV_DeepLearning) -->
 </div>
 
-### Simple Game (GitHub Pages Test) - The Slider
-<div align="center">
-  
-| Project Name | Tools & Technologies | Repository |
-| :-: | :-: | :-: |
-| **The Slider** |![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)| [![The Slider GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revalew/TheSliderTest) |
-<!-- [CV & ML GitHub](https://github.com/revalew/OpenCV_DeepLearning) -->
-</div>
-
+</br>
+</br>
 
 ### Computer Vision
+
+</br>
 <p align='center'>
 <img src="./src/img/tracking.gif" width="375" height="260" loading="lazy"/>
 <!-- <span>&ensp;</span> -->
 <img src="./src/img/fingerCount.gif" width="375" height="260" loading="lazy"/>
 </p>
+
+</br>
 <div align="center">
 
 | Project Name | Tools & Technologies | Repository |
@@ -96,7 +122,8 @@
 | **Computer Vision & ML** |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)| [![CV & ML GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revalew/OpenCV_DeepLearning) |
 <!-- [CV & ML GitHub](https://github.com/revalew/OpenCV_DeepLearning) -->
 </div>
-
+</br>
+</br>
 
 ## My BSc Thesis (in Polish)
 
@@ -104,13 +131,16 @@
 > This thesis is written in Polish, but I might consider translating it into English if anyone wants to read it.
 > If that's the case, contact me and tell me why you want to read it. We'll work it out.
 
-
+</br>
 <div align="center">
   
 | Title PL | Title EN | Link to PDF |
 | :-: | :-: | :-: |
-|Sterowanie robotem mobilnym typu HEXAPOD | HEXAPOD mobile robot control | ![My Degree PDF](./src/Projekt_Inzynierski_Kisiel_Maksymilian.pdf) |
+|Sterowanie robotem mobilnym typu HEXAPOD | HEXAPOD mobile robot control | [My Degree PDF](./src/Projekt_Inzynierski_Kisiel_Maksymilian.pdf) |
 </div>
+
+</br>
+</br>
 
 ## My Masters Project
 
@@ -121,6 +151,7 @@
 > 
 > As the Pico 2 W will be released later this year, I will also upgrade the 1st generation used in this project (when it becomes available at the end of 2024).
 
+</br>
 <div align="center">
   
 | Title PL | Title EN | Tools & Technologies | Repository |
