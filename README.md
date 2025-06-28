@@ -1,7 +1,14 @@
 <!-- # Hello there 👋🏻 -->
-<div>
+<div align="center">
   <img src="./src/img/svg/hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
+
+
+<!--
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=revalew&label=Profile%20views&color=0e75b6&style=flat&color=red"/>
+</div>
+-->
 
 <br/>
 <br/>
