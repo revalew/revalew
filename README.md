@@ -16,13 +16,17 @@
 ## General 
 
 - 👋🏻 Hello I am revalew, AKA **Maks Kisiel**.
-- 👨🏻‍🔬 🥳 I am proud to have **graduated** from the **Silesian University of Technology** in February 2024 with a **Bachelor of Science in Automatic Control and Robotics** (in Polish: Inżynier Automatyki i Robotyki). 
+- 👨🏻‍🔬 🥳 I am proud to have **graduated** from the **Silesian University of Technology**:
+  - in February 2024 with a **Bachelor of Science in Automatic Control and Robotics** (in Polish: Inżynier Automatyki i Robotyki),
+  - in November 2025 with a **Master of Science in Informatics** (in Polish: Magister Inżynier Informatyki). 
 - 👀 I’m interested in programming, robotics and electronics.
 - 📚 I'm currently learning about:
-  - Game Development,
-  - Computer Vision and Machine Learning with Python,
+  - Game Development in Unity (and C++ / Python to some extend),
+  - AI agents in Python (*FastAPI* and *LangGraph*),
+  - Server-Side development in GOlang.
+  <!-- - Computer Vision and Machine Learning with Python, -->
   <!-- - Controlling custom robot with ROS2 and Python, -->
-  - Typesetting with LaTeX.
+  <!-- - Typesetting with LaTeX. -->
 - 👨🏻‍💻 🕺🏻 In the free time I like to learn new things, read a good book, play fun games or go for a jog.
 
 <!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=revalew&show_icons=true&locale=en&layout=compact&theme=aura_dark"/> </p> -->
@@ -83,13 +87,17 @@
 <br/>
 <br/>
 
-### Paper Blades by Place Holders ([ZTGK Project](https://gry.it.p.lodz.pl/main/index.php/pl/))
+### Paper Blades & KnotFun by PlaceHolders ([ZTGK Project](https://gry.it.p.lodz.pl/main/index.php/pl/))
 
-> [!IMPORTANT]
+<!-- > [!IMPORTANT]
 > ### **REPO GONE PRIVATE**
-> We are currently working on the project to release it as a full game
+> We are currently working on the project to release it as a full game -->
 
 <div align="center">
+
+<br/>
+
+["Official" Website](https://placeholders-studio.github.io/placeholders/)
 
 <br/>
 
@@ -141,9 +149,10 @@
 
 ## My BSc Thesis (in Polish)
 
-> [!NOTE]
+<!-- Nah bro I've got enough... Use AI, I don't want to do that -->
+<!-- > [!NOTE]
 > This thesis is written in Polish, but I might consider translating it into English if anyone wants to read it.
-> If that's the case, contact me and tell me why you want to read it. We'll work it out.
+> If that's the case, contact me and tell me why you want to read it. We'll work it out. -->
 
 <br/>
 
@@ -152,17 +161,26 @@
 | Title PL | Title EN | Link to PDF |
 | :-: | :-: | :-: |
 |Sterowanie robotem mobilnym typu HEXAPOD | HEXAPOD mobile robot control | [My Degree PDF](./src/Projekt_Inzynierski_Kisiel_Maksymilian.pdf) |
+
+</div>
+
+<div align="center">
+
+| Project Name | Tools & Technologies | Repository |
+| :-: | :-: | :-: |
+| **HEXAPOD** |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![ROS](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)| [![HEXAPOD GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revalew/HEXAPOD) |
+
 </div>
 
 <br/>
 <br/>
 
-## My Masters Project
+## My MSc Thesis (in Polish)
 
-> [!IMPORTANT]
+<!-- > [!IMPORTANT]
 > I am currently working on several projects, attending classes and working full time.
 > 
-> I will work on this project slowly, so please be patient.
+> I will work on this project slowly, so please be patient. -->
 
 <!-- > As the Pico 2 W will be released later this year, I will also upgrade the 1st generation used in this project (when it becomes available at the end of 2024). -->
 
@@ -170,89 +188,18 @@
 
 <div align="center">
   
-| Title PL | Title EN | Tools & Technologies | Repository |
-| :-: | :-: | :-: | :-: |
-|Estymacja kroków z czujników ruchu | Step estimation from motion sensors | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|[![Master Thesis GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revalew/Master-Thesis)|
+| Title PL | Title EN | Link to PDF |
+| :-: | :-: | :-: |
+|Estymacja kroków z czujników ruchu | Step estimation from motion sensors | [My Degree PDF](./src/Praca_Magisterska_Maksymilian_Kisiel.pdf) |
+
+</div>
+
+<div align="center">
+
+| Project Name | Tools & Technologies | Repository |
+| :-: | :-: | :-: |
+| Step Estimation |![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|[![Master Thesis GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/revalew/Master-Thesis) |
+
 </div>
 
 <br/>
-
-<!-- ## Technologies and skills:
-
-<table align="center">
-<thead><th>
-
-#### Programming & Robotics
-
-</th><th>&emsp;&emsp;&emsp;&emsp;</th><th>
-
-#### WebDev
-
-</th></thead>
-<tbody>
-<tr><td>
-<div align="center">
-
-| **What I know** | **What's next** |
-|:-:|:-:|
-| C           |ROS|
-| C++         |Inverse kinematics|
-| Python      |Computer Vision|
-| Docker      |Even more C / C++|
-| MATLAB      |Machine Learning|
-| Simulink    |Pandas|
-| Git         |C# / Java|
-| SQL         |OpenCL, Cuda|
-| NumPy       |Custom Drivers|
-| LabVIEW     ||
-
-</div>
-</td><td></td><td>
-<div align="center">
-
-| **What I know** | **What's next** |
-|:-:|:-:|
-| HTML        |Advanced Node.js|
-| CSS         ||
-| JavaScript  ||
-| PHP         ||
-| SQL         ||
-| SASS, BEM   ||
-| Bootstrap   ||
-| Node.js     ||
-| Gulp, npm   ||
-| RWD, SEO    ||
-
-</div>
-</td></tr>
-</tbody>
-</table>
-
----
-<p align='center'>
-<table align="center">
-<thead><th>
-
-#### Other
-
-</th></thead>
-<tbody>
-<tr><td>
-<div align="center">
-
-| **What I know** | **What's next** |
-|:-:|:-:|
-| Linux       | UI / UX |
-| Raspbian    | Graphics Design |
-| LaTeX       | Blender |
-| TIA Portal  ||
-| Inventor    ||
-| CAD         ||
-
-</div>
-</td>
-</tbody>
-</table>
-</p>
-
--->
