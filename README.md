@@ -97,7 +97,7 @@
 
 <br/>
 
-["Official" Website](https://placeholders-studio.github.io/placeholders/)
+["Official" Website](https://placeholdersstudio.github.io/placeholders/)
 
 <br/>
 
