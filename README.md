@@ -184,6 +184,12 @@
 
 <!-- > As the Pico 2 W will be released later this year, I will also upgrade the 1st generation used in this project (when it becomes available at the end of 2024). -->
 
+> [!NOTE]
+>
+> I have also published an article based on this work.
+>
+> You can read it [here](https://www.mdpi.com/1424-8220/26/3/876).
+
 <br/>
 
 <div align="center">
